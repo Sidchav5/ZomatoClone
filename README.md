@@ -1,2 +1,2 @@
 # ZomatoClone
-It Is Zomata Clone(UI) Made by Using HTML, CSS
+It Is Zomata Clone(UI) Made by Using HTML, CSS & JavaScript
